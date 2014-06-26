@@ -1,4 +1,4 @@
-mtp
+SISTEMAS EXPERTO PARA LA PROBLEMATICA ACADEMICA
 ===
 
-Detalle de las actividades que se realizan en uno de los colegios cedes del Opusdei
+Detalle de las actividades que se realizan en uno de los colegios cedes del Opusdei BAJO EL CUAL SE VA A REALIZA UN LEVANTAMIENTO DE INFORMACION PARA LA CREACION DE UNA BASE DEL CONOCIENTO
